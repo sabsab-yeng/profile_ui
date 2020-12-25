@@ -31,7 +31,7 @@ class _MemberProfilePageState extends State<MemberProfilePage> {
                 child: Container(
                   height: 340,
                   width: MediaQuery.of(context).size.width,
-                  color: Colors.yellow,
+                  color: Color.fromARGB(255, 255, 153, 0),
                 ),
               ),
             ),
@@ -42,7 +42,7 @@ class _MemberProfilePageState extends State<MemberProfilePage> {
                 child: Container(
                   height: 320,
                   width: MediaQuery.of(context).size.width,
-                  color: Colors.pink,
+                  color: Color.fromARGB(255, 255, 64, 0),
                 ),
               ),
             ),

@@ -26,7 +26,7 @@ class ProfileButtonWidget extends StatelessWidget {
               children: [
                 Icon(
                   icon,
-                  color: Colors.pink,
+                  color: Color.fromARGB(255, 255, 64, 0),
                 ),
                 SizedBox(
                   width: 20,
